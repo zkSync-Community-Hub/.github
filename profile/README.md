@@ -1,6 +1,8 @@
 # **ZKsync Community Hub**  
 
-![Elastic Network](../elastic-network-wist.png)  
+<p align="center">
+  <img src="../elastic-network-wist.png" alt="Elastic Network" width="600">
+</p>  
 
 Welcome to the **ZKsync Community Hub**, the home for developers, builders, and contributors working on **ZKsync, the Elastic Network**. Whether you're launching decentralized applications, developing new rollups, or just exploring the world of zero-knowledge, this is your place to connect, collaborate, and grow.  
 
@@ -8,26 +10,7 @@ Welcome to the **ZKsync Community Hub**, the home for developers, builders, and 
 
 ## **🌐 What is the Elastic Network?**  
 
-The **Elastic Network** is a **scalable ecosystem of ZK-powered chains**, built using the **ZK Stack**. It includes **live** and **upcoming** chains, each contributing to a decentralized, interoperable future.
-
-### **🔹 Live Chains**  
-➡️ **ZKsync Era**  
-➡️ **Abstract**  
-➡️ **Cronos zkEVM**  
-➡️ **GRVT**  
-➡️ **Sophon**  
-➡️ **Treasure**  
-➡️ **Zero Network**  
-
-### **🔜 Upcoming Chains**  
-🔜 **Creator**  
-🔜 **Memento**  
-🔜 **Space & Time**  
-🔜 **PlayChain**  
-🔜 **Lens**  
-🔜 **ZKCandy**  
-🔜 **zkLighter**  
-🔜 **zkXPLA**  
+The **Elastic Network** is a **scalable ecosystem of ZK-powered chains**, built using the **ZK Stack**. It includes chains like **ZKsync Era, Abstract, Treasure, Sophon** and [many more](https://l2beat.com/scaling/summary).
 
 Developers can **build, deploy, and scale applications seamlessly** across the Elastic Network, leveraging the power of **zero-knowledge proofs and interoperability**.  
 
@@ -42,30 +25,6 @@ Join the **[Discussions forum](https://github.com/zksync-community-hub/zksync-de
 ✅ **Ask questions** about development and tooling.  
 ✅ **Get support** from the community and core contributors.  
 ✅ **Collaborate** on projects and share knowledge.  
-
----
-
-### **📚 Tutorials & Community Code**  
-
-Looking for **step-by-step guides** on building with ZKsync? Visit our **[Community Code repository](https://github.com/zkSync-Community-Hub/community-code)** for tutorials and code examples contributed by developers.  
-
-📖 **Where tutorials are published:** [code.zksync.io](https://code.zksync.io/)  
-✍️ **Want to contribute?** Submit a tutorial via a **Pull Request** to the [Community Code repo](https://github.com/zkSync-Community-Hub/community-code) so the entire ZKsync community can benefit!  
-
-Whether you're creating **smart contracts, SDK integrations, or advanced ZK applications**, sharing your knowledge helps grow the ecosystem! 🚀  
-
----
-
-### **📖 Developer Documentation**  
-
-For in-depth technical details, check out our official documentation:  
-
-📖 **[Developer Docs](https://docs.zksync.io/build)** – Learn how to build dApps on ZKsync.  
-🏗 **[ZK Stack Docs](https://docs.zksync.io/zk-stack)** – Guides for deploying custom ZK chains.  
-🔍 **[ZKsync Protocol Docs](https://docs.zksync.io/zksync-protocol)** – Deep dive into the protocol's architecture.  
-⚙️ **[ZKsync Node Docs](https://docs.zksync.io/zksync-node)** – Running and managing ZKsync nodes.  
-
----
 
 ## **👥 Community & Contribution**  
 
